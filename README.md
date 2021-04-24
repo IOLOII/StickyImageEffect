@@ -1,4 +1,5 @@
 # How to Create a Sticky Image Effect with Three.js
+# [网站特效] 切换效果,触屏切换
 
 A sticky image effect for a slideshow inspired by [ultanoir's project showcase slideshow](https://ultranoir.com/en/).
 
